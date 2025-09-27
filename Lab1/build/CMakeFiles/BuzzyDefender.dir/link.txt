@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/BuzzyDefender.dir/code/main.cpp.o CMakeFiles/BuzzyDefender.dir/code/ECE_Buzzy.cpp.o CMakeFiles/BuzzyDefender.dir/code/ECE_LaserBlast.cpp.o CMakeFiles/BuzzyDefender.dir/code/ECE_Enemy.cpp.o -o BuzzyDefender  -lsfml-graphics -lsfml-window -lsfml-audio -lsfml-network -lsfml-system 
