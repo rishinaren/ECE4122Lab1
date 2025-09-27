@@ -1,0 +1,27 @@
+# Build directories and compiled files
+/Lab1/build/
+*.o
+*.exe
+*.out
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.swp
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled executable (keep source, not binary)
+BuzzyDefender

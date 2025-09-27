@@ -1,3 +1,0 @@
-/workspaces/ECE4122Lab1/Lab1/build/CMakeFiles/BuzzyDefender.dir
-/workspaces/ECE4122Lab1/Lab1/build/CMakeFiles/edit_cache.dir
-/workspaces/ECE4122Lab1/Lab1/build/CMakeFiles/rebuild_cache.dir
